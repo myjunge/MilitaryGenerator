@@ -4,7 +4,8 @@
 生成一些兵器名言大杂烩（现实生活中这些“兵器”可不会说话！！！）\
 Generate a mix of famous quotes about weapons (in real life, these weapons don't actually talk!!!)
 
-## 只能拿来搞笑, 请不要用于正规用途!\Only for humor, please do not use it for official purposes!
+## 只能拿来搞笑, 请不要用于正规用途!
+## Only for humor, please do not use it for official purposes!
 
 示例：  
 德国坦克说过一句富有哲理的话，坦克的防御也是进攻性的！这似乎解答了我的疑惑。 带着这些问题。我们来审视一下军备生成器。 每个人都不得不面对这些问题。  在面对这种问题时。我们一般认为。抓住了问题的关键。其他一切则会迎刃而解。总结的来说。希腊火神炮说过一句富有哲理的话，爱琴烈焰，承古希之智，御外侮于海。我希望诸位也能好好地体会这句话。 那么。  
