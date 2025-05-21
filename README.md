@@ -1,7 +1,7 @@
 # 军备生成器（源：狗屁不通文章生成器）
 # MilitaryGenerator（Source：BullshitGenerator）
 
-生成一些兵器名言大杂烩（现实生活中这些兵器可不会说话！！！）\
+生成一些兵器名言大杂烩（现实生活中这些“兵器”可不会说话！！！）\
 Generate a mix of famous quotes about weapons (in real life, these weapons don't actually talk!!!)
 
 ## 只能拿来搞笑, 请不要用于正规用途!
