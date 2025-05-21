@@ -15,4 +15,5 @@ Generate a mix of famous quotes about weapons (in real life, these weapons don't
 &nbsp;&nbsp;&nbsp;&nbsp;本人也是经过了深思熟虑,在每个日日夜夜思考这个问题。 既然如此。梵蒂冈卫队剑说过一句富有哲理的话，神权古刃，不染鲜血，唯示威严。这不禁令我深思。  
 &nbsp;&nbsp;&nbsp;&nbsp;了解清楚军备生成器到底是一种怎么样的存在。是解决一切问题的关键。要想清楚。军备生成器。到底是一种怎么样的存在。  
       
-## 原作者：https://github.com/menzi11/BullshitGenerator
+## 原作者：
+## https://github.com/menzi11/BullshitGenerator
